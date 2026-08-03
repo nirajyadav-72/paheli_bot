@@ -4027,4 +4027,124 @@ QUIZ_LIST = [
         "lang": "english",
         "explanation": "💡 Lal (Lala Lajpat Rai), Bal (Bal Gangadhar Tilak), and Pal (Bipin Chandra Pal) formed the core leadership of the Extremist (Assertive) faction, while Pherozeshah Mehta was a stalwart of the Moderates."
     },
-    
+    {
+        "question": "To whom does the Vice-President of India address their resignation letter?",
+        "options": ["The President", "The Prime Minister", "The Speaker of Lok Sabha", "The Chief Justice of India"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The Vice-President submits their resignation to the President, and the President submits theirs to the Vice-President."
+    },
+    {
+        "question": "Where can a No-Confidence Motion against the ruling government be introduced?",
+        "options": ["Only in Lok Sabha", "Only in Rajya Sabha", "In either House of Parliament", "In a Joint Sitting of Parliament"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 A No-Confidence Motion can only be introduced in the Lok Sabha because the Council of Ministers is collectively responsible to it."
+    },
+    {
+        "question": "What is the minimum age required to become the Prime Minister of India if he/she is a member of the Rajya Sabha?",
+        "options": ["25 Years", "30 Years", "35 Years", "There is no age limit"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The minimum age for a Lok Sabha member is 25, but if the chosen Prime Minister belongs to the Rajya Sabha, the minimum age required is 30."
+    },
+    {
+        "question": "Which Article of the Constitution empowers the President of India to grant 'Pardons'?",
+        "options": ["Article 52", "Article 61", "Article 72", "Article 85"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Article 72 gives the President the power to grant pardons, reprieves, respites, or remissions of punishment to any convict."
+    },
+    {
+        "question": "Who certifies a bill introduced in the Parliament as a 'Money Bill'?",
+        "options": ["The President", "The Finance Minister", "The Prime Minister", "The Speaker of Lok Sabha"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 The Speaker of the Lok Sabha holds the final and absolute authority to decide whether a bill is a Money Bill or not."
+    },
+    {
+        "question": "The 'Upper House' of the Indian Parliament is known by which name?",
+        "options": ["Lok Sabha", "Rajya Sabha", "Legislative Assembly", "Legislative Council"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The Indian Parliament has two houses: the Rajya Sabha is known as the Upper House, and the Lok Sabha is the Lower House."
+    },
+    {
+        "question": "Who is the Ex-officio Chairman of the Rajya Sabha?",
+        "options": ["The President", "The Prime Minister", "The Vice-President", "The Minister of Parliamentary Affairs"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The Vice-President of India automatically serves as the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+        "question": "Under which Article of the Constitution can President's Rule be imposed in a State?",
+        "options": ["Article 352", "Article 356", "Article 360", "Article 368"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 If the constitutional machinery breaks down in a state, President's Rule can be imposed under Article 356."
+    },
+    {
+        "question": "What is the retirement age of a Judge of the High Court?",
+        "options": ["60 Years", "62 Years", "65 Years", "70 Years"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 High Court judges retire at the age of 62, while Supreme Court judges retire at 65."
+    },
+    {
+        "question": "Under which Article of the Constitution is the Finance Commission constituted?",
+        "options": ["Article 275", "Article 280", "Article 312", "Article 324"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Under Article 280, the President constitutes the Finance Commission every five years to handle financial allocations."
+    },
+    {
+        "question": "Who appoints the Chief Minister of a State in India?",
+        "options": ["The President", "The Governor", "The Chief Justice of the High Court", "The Speaker of the Legislative Assembly"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 According to Article 164, the Governor appoints the leader of the majority party in the state assembly elections as the Chief Minister."
+    },
+    {
+        "question": "What is the tenure of the Comptroller and Auditor General (CAG) of India?",
+        "options": ["5 Years", "6 Years or up to the age of 65", "5 Years or up to the age of 62", "During the pleasure of the President"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The CAG holds office for a term of six years or until they attain the age of 65 years, whichever comes first."
+    },
+    {
+        "question": "Who administers the oath of office to the Chief Justice of the Supreme Court of India?",
+        "options": ["The Prime Minister", "The Outgoing Chief Justice", "The President", "The Speaker of Lok Sabha"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The President of India administers the oath of office and secrecy to the Chief Justice of India (CJI)."
+    },
+    {
+        "question": "What is the minimum age required to be appointed as the Governor of a State?",
+        "options": ["25 Years", "30 Years", "35 Years", "40 Years"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 A person must be a citizen of India and have completed the age of 35 years to be eligible for appointment as a Governor."
+    },
+    {
+        "question": "In which Indian state was the first 'Lok Adalat' (People's Court) held?",
+        "options": ["Maharashtra", "Gujarat", "Rajasthan", "Uttar Pradesh"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The first Lok Adalat in India was organized in Gujarat in 1982 to settle disputes quickly and amicably."
+    },
+    {
+        "question": "Who has the power to remove a Judge of the Supreme Court of India from office?",
+        "options": ["The President alone", "The Chief Justice alone", "The President on an address by Parliament", "The Prime Minister"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 A Supreme Court judge can only be removed by the President after an address by both Houses of Parliament passed with a special majority."
+    },
+    {
+        "question": "Who is considered the 'Custodian or Guardian' of the Indian Constitution?",
+        "options": ["The Parliament", "The President", "The Prime Minister", "The Supreme Court of India"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 The Supreme Court of India is the final interpreter and guardian of the Constitution, protecting it against any legislative overreach."
+    }
+
+]
