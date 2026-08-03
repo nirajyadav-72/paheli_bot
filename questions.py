@@ -3037,4 +3037,364 @@ QUIZ_LIST = [
         "lang": "hindi",
         "explanation": "💡 हिंदी के प्रसिद्ध छायावादी कवि जयशंकर प्रसाद ने 'कामायनी' महाकाव्य की रचना की थी। इनकी अन्य प्रसिद्ध रचनाएँ तितली, कंकाल, और आँसू हैं।"
     },
+    #====================================================
+    # ------------------- ENGLISH QUIZZES ---------------
+    # ===================================================
+    {
+        "question": "What is 20% of 250?",
+        "options": ["40", "50", "60", "45"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Calculation: (20 / 100) * 250 = 0.2 * 250 = 50."
+    },
+    {
+        "question": "In which year was the Indus Valley Civilisation first discovered?",
+        "options": ["1911", "1921", "1931", "1941"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Rai Bahadur Daya Ram Sahni discovered the first site, Harappa, in the year 1921, which brought this ancient civilisation to light."
+    },
+    {
+        "question": "Which famous site of the Indus Valley Civilisation is literally known as the 'Mound of the Dead'?",
+        "options": ["Harappa", "Lothal", "Kalibangan", "Mohenjo-daro"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 In the Sindhi language, 'Mohenjo-daro' translates to 'Mound of the Dead'. It is currently located in the Sindh province of Pakistan."
+    },
+    {
+        "question": "Which of the following was a major port city (dockyard) of the Indus Valley Civilisation?",
+        "options": ["Lothal", "Ropar", "Banawali", "Kalibangan"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Lothal, located on the banks of the Bhogava River in the Ahmedabad district of Gujarat, served as a vital maritime trade port."
+    },
+    {
+        "question": "The people of the Indus Valley Civilisation were unacquainted with which of the following metals?",
+        "options": ["Copper", "Bronze", "Gold", "Iron"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 The Indus Valley Civilisation was a Bronze Age society. Its inhabitants were completely unaware of iron, which was introduced later during the Later Vedic Period in India."
+    },
+    {
+        "question": "The famous bronze statue of the 'Dancing Girl' was excavated from which Indus Valley Civilisation site?",
+        "options": ["Harappa", "Mohenjo-daro", "Chanhudaro", "Dholavira"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The iconic bronze 'Dancing Girl' statue, crafted using the lost-wax casting technique, was discovered near the Great Bath at Mohenjo-daro."
+    },
+    {
+        "question": "Evidence of carved bricks and a ploughed field has been unearthed from which Indus Valley site?",
+        "options": ["Banawali", "Surkotada", "Kalibangan", "Lothal"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Kalibangan, situated along the Ghaggar River in the Hanumangarh district of Rajasthan, yielded evidence of a ploughed field and decorative brickwork."
+    },
+    {
+        "question": "What was the primary and defining characteristic of the Indus Valley Civilisation?",
+        "options": ["Agrarian economy", "Organised urban living", "Nomadic lifestyle", "Religious orthodoxy"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The civilisation is renowned for its advanced town planning based on a grid system, baked brick houses, and highly sophisticated underground drainage systems."
+    },
+    {
+        "question": "What is the most widely accepted period for the mature phase of Harappan Civilisation?",
+        "options": ["2800 BCE - 2000 BCE", "2500 BCE - 1750 BCE", "3500 BCE - 1800 BCE", "Not yet determined definitively"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Based on modern Radiocarbon (C-14) dating techniques, the universally accepted timeline for the mature Harappan culture spans from 2500 BCE to 1750 BCE."
+    },
+    {
+        "question": "From which Indus Valley Civilisation site were the skeletal remains of a horse discovered?",
+        "options": ["Surkotada", "Banawali", "Manda", "Kalibangan"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Surkotada, located in the Kutch district of Gujarat, is the prominent site that yielded bone fragments and remains definitely identified as belonging to a horse."
+    },
+    {
+        "question": "A seal depicting a three-faced deity resembling which modern Hindu God was found at Mohenjo-daro?",
+        "options": ["Proto-Shiva (Pashupati)", "Proto-Brahma", "Proto-Vishnu", "Proto-Indra"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 A seal featuring a seated three-faced deity surrounded by animals was found at Mohenjo-daro. Archaeologist John Marshall identified this figure as 'Proto-Shiva'."
+    },
+    {
+        "question": "Which period is generally accepted as the Early Vedic or Rigvedic Culture period in Indian history?",
+        "options": ["1500 BCE - 1000 BCE", "1000 BCE - 600 BCE", "600 BCE - 600 CE", "Not definitively fixed"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The Vedic Age is divided into two parts: the Rigvedic Period (1500-1000 BCE) and the Later Vedic Period (1000-600 BCE)."
+    },
+    {
+        "question": "By what name were the anti-Vedic and anti-Brahmanical religious teachers known during the Later Vedic period?",
+        "options": ["Yajaman", "Shraman", "Atharvan", "Shreshtin"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Sages and teachers who opposed the authority of the Vedas and Brahmanical dominance in the Later Vedic Period were referred to as 'Shramans'."
+    },
+    {
+        "question": "The national motto of India, 'Satyamev Jayate', inscribed below the State Emblem, is taken from which Upanishad?",
+        "options": ["Mundaka Upanishad", "Katha Upanishad", "Isha Upanishad", "Brihadaranyaka Upanishad"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 'Satyamev Jayate', meaning 'Truth Alone Triumphs', is a sacred phrase adopted from the Mundaka Upanishad."
+    },
+    {
+        "question": "Which of the four Vedas is widely regarded as the 'Origin of Indian Music'?",
+        "options": ["Rigveda", "Upanishad", "Yajurveda", "Samaveda"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 The Samaveda consists of verses meant to be sung melodiously during sacrifices, making it the foundational root of Indian classical music."
+    },
+    {
+        "question": "In which Mandala (book) of the Rigveda is the term 'Shudra' mentioned for the very first time?",
+        "options": ["7th Mandala", "8th Mandala", "9th Mandala", "10th Mandala"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 The 'Purusha Sukta' found in the 10th Mandala of the Rigveda describes the origin of the four Varnas (Brahmin, Kshatriya, Vaishya, Shudra) for the first time."
+    },
+    {
+        "question": "The famous 'Gayatri Mantra', dedicated to the solar deity Savitr, is found in which Veda?",
+        "options": ["Rigveda", "Yajurveda", "Upanishad", "Bhagavad Gita"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The Gayatri Mantra is compiled in the 3rd Mandala of the Rigveda and was composed by Sage Vishwamitra."
+    },
+    {
+        "question": "For which animal was the term 'Aghanya' (not to be killed/inviolable) explicitly used in the Rigveda?",
+        "options": ["Brahmin", "Cow", "Woman", "Priest"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The cow was considered the most sacred animal and a measure of wealth in the Vedic period; harming or killing a cow carried severe punishments like exile or death."
+    },
+    {
+        "question": "What was the primary occupation of the Early Rigvedic Aryans?",
+        "options": ["Agriculture", "Pastoralism / Cattle rearing", "Education", "Trade and Commerce"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Rigvedic Aryans lived a predominantly pastoral and nomadic lifestyle where cattle rearing was the primary occupation, shifting to agriculture in the Later Vedic period."
+    },
+    {
+        "question": "How many Vedas are there in total, and which one among them is the oldest?",
+        "options": ["3 Vedas, Samaveda", "4 Vedas, Yajurveda", "4 Vedas, Rigveda", "5 Vedas, Atharvaveda"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 There are four Vedas (Rigveda, Yajurveda, Samaveda, Atharvaveda). The Rigveda is the ancientmost text and the first literary work of mankind."
+    },
+    {
+        "question": "In the Rigvedic period, 'Nishka' was used as an ornament, but in the Later Vedic period, it came to be used as what?",
+        "options": ["Coin", "Weapon", "Agricultural tool", "Script"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Originally a gold neck ornament or medallion, 'Nishka' gradually evolved into a medium of exchange and currency (coin) in later years."
+    },
+    {
+        "question": "Where was Gautama Buddha born in 563 BCE to King Shuddhodana of the Shakya Kshatriya clan?",
+        "options": ["Kushinagar", "Lumbini", "Sarnath", "Bodh Gaya"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Gautama Buddha was born in the 'Lumbini' grove, located in the Terai region of modern-day Nepal, which is historically marked by the Rummindei pillar."
+    },
+    {
+        "question": "What is the event of Buddha renouncing his home (Great Renunciation) at the age of 29 called in Buddhist texts?",
+        "options": ["Mahaparinirvana", "Dharmachakrapravartana", "Mahabhinishkramana", "Sambodhi"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The event of Prince Siddhartha leaving his palace in search of truth is known as 'Mahabhinishkramana', symbolized by a horse named Kanthaka."
+    },
+    {
+        "question": "Under which tree and on the banks of which river did Gautama Buddha attain Enlightenment at the age of 35?",
+        "options": ["Sal tree - Rijupalika River", "Peepal tree - Niranjana River", "Banyan tree - Ganga River", "Mango tree - Yamuna River"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Siddhartha attained supreme knowledge (Nirvana) on a Vaishakha Purnima night under a 'Peepal' tree (Bodhi tree) on the banks of the 'Niranjana' (Falgu) River in Gaya, Bihar."
+    },
+    {
+        "question": "Where did Buddha deliver his first sermon to his five disciples, an event known as 'Dharmachakrapravartana'?",
+        "options": ["Sarnath", "Vaishali", "Pataliputra", "Rajgriha"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 After attaining enlightenment, Buddha traveled to 'Sarnath' (near Varanasi) and set the 'Wheel of Law' in motion by preaching his first sermon."
+    },
+    {
+        "question": "Where did Mahatma Buddha deliver the maximum number of sermons during his lifetime?",
+        "options": ["Magadha", "Kaushambi", "Shravasti", "Avanti"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Buddha delivered the highest number of preachings in 'Shravasti', the capital of the Kosala kingdom, where he spent most of his rainy seasons. His sermons were in the Pali language."
+    },
+    {
+        "question": "Where did Gautama Buddha attain Mahaparinirvana (death) in the year 483 BCE at the age of 80?",
+        "options": ["Pavapuri", "Kushinagar", "Lumbini", "Shravasti"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Buddha passed away in 'Kushinagar' (modern Uttar Pradesh), which was then the capital of the Malla republic. This final departure is called Mahaparinirvana."
+    },
+    {
+        "question": "According to Buddhism, which path did Buddha advocate to overcome human desires and worldly sufferings?",
+        "options": ["Ashtangika Marga (Eightfold Path)", "Triratna Marga", "Pancha Mahavrata", "Chaturyama Marga"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Buddha prescribed the Middle Path, specifically the 'Eightfold Path' (comprising Right Vision, Right Resolve, etc.), to completely eliminate sorrow from life."
+    },
+    {
+        "question": "What is the correct sequential order of the 'Four Noble Truths' (Chatvari Arya Satyani) preached by Buddha?",
+        "options": ["Sorrow, Cause of Sorrow, Cessation of Sorrow, Path to Cessation", "Sorrow, Cessation of Sorrow, Cause of Sorrow, Eightfold Path", "World, Sorrow, Liberation, Knowledge", "God, Soul, Rebirth, Karma"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The core philosophy rests on the Four Noble Truths: 1. Dukkha (Life is full of sorrow), 2. Samudaya (There is a cause for it), 3. Nirodha (Sorrow can be ended), and 4. Magga (There is a path to end it)."
+    },
+    {
+        "question": "Which of the following is NOT included in the 'Triratna' (Three Jewels) of Buddhism?",
+        "options": ["Buddha", "Dhamma", "Sangha", "Syadvada"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 Buddha (The Enlightened), Dhamma (The Teachings), and Sangha (The Monastic Order) form the holy Triratna of Buddhism. 'Syadvada' belongs to Jain philosophy."
+    },
+    {
+        "question": "Where was the First Buddhist Council held shortly after the demise of Gautama Buddha?",
+        "options": ["Vaishali", "Pataliputra", "Kundalvana", "Rajgriha"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 The First Council was held in 483 BCE at the Saptaparni cave in 'Rajgriha', under the patronage of King Ajatashatru and chaired by Monk Mahakashyapa."
+    },
+    {
+        "question": "Where was Lord Mahavira Swami, the 24th and last Tirthankara of Jainism, born?",
+        "options": ["Kundalvana (Vaishali)", "Pavapuri", "Pataliputra", "Kapilavastu"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Mahavira Swami was born in 540 BCE (or 599 BCE according to some sources) at 'Kundagrama' or 'Kundalvana' near Vaishali in Bihar, into a Jnatrika Kshatriya clan."
+    },
+    {
+        "question": "What was the childhood name of Lord Mahavira Swami?",
+        "options": ["Siddhartha", "Vardhamana", "Rahul", "Shuddhodana"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The childhood name of Mahavira Swami was Vardhamana. His father, Siddhartha, was the chief of the Jnatrika Kshatriya clan, and his mother was Trishala."
+    },
+    {
+        "question": "Under which tree and on the banks of which river did Vardhamana attain 'Kaivalya' (supreme knowledge) after 12 years of intense penance?",
+        "options": ["Niranjana River - Peepal tree", "Rijupalika River - Sal tree", "Ganga River - Banyan tree", "Yamuna River - Mango tree"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 At the age of 42, near the village of Jrimbhikagrama, Vardhamana attained supreme knowledge (Kaivalya) under a 'Sal' tree on the banks of the 'Rijupalika' River, after which he was called Jina (conqueror) and Mahavira."
+    },
+    {
+        "question": "Where did Mahavira Swami deliver his first sermon, and what was the primary language of his preachings?",
+        "options": ["Rajgriha - Prakrit (Ardhamagadhi)", "Sarnath - Pali", "Vaishali - Sanskrit", "Kushinagar - Awadhi"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Mahavira Swami delivered his first sermon on the Vipulachal hill in 'Rajgriha' using the 'Prakrit' (Ardhamagadhi) language, which was easily understood by the common people."
+    },
+    {
+        "question": "Who added the fifth vow of 'Brahmacharya' (Celibacy) to the existing four great vows (Pancha Mahavratas) of Jainism?",
+        "options": ["Rishabhadev", "Parshvanath", "Neminath", "Mahavira Swami"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 The 23rd Tirthankara, Parshvanath, gave four vows: Satya (Truth), Ahimsa (Non-violence), Asteya (Non-stealing), and Aparigraha (Non-possession). Mahavira Swami added 'Brahmacharya' as the fifth vow."
+    },
+    {
+        "question": "What is the correct combination of the 'Triratna' (Three Jewels) prescribed in Jainism for attaining liberation?",
+        "options": ["Right Vision, Right Resolve, Right Speech", "Right Faith, Right Knowledge, Right Conduct", "Buddha, Dhamma, Sangha", "Truth, Non-violence, Non-stealing"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 To attain Moksha, Jainism mandates the path of Triratna: Samyak Darshana (Right Faith), Samyak Jnana (Right Knowledge), and Samyak Charitra (Right Conduct)."
+    },
+    {
+        "question": "The philosophical doctrine of 'Syadvada' or 'Anekantavada' in Jainism is primarily concerned with what?",
+        "options": ["The relativity of knowledge", "The absolute supremacy of God", "Complete atheism", "Rules of idol worship"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Syadvada (theory of conditioned predication) states that reality is complex and truth has multiple dimensions, meaning human knowledge is limited and relative. It is also known as 'Saptabhangi Naya'."
+    },
+    {
+        "question": "Who became the first disciple and follower of Mahavira Swami?",
+        "options": ["Jamali", "Chandana", "Sthulabhadra", "Bhadrabahu"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Mahavira Swami's son-in-law 'Jamali' (husband of Priyadarshana) became his first male disciple. The first female Jain nun was 'Chandana', the daughter of King Dadhivahana."
+    },
+    {
+        "question": "Where did Mahavira Swami attain Nirvana (liberation/death)?",
+        "options": ["Kushinagar", "Pavapuri", "Shravanabelagola", "Mount Abu"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 At the age of 72, in 468 BCE (or 527 BCE according to other timelines), Mahavira Swami attained Nirvana at 'Pavapuri' near Rajgir in Bihar, in the palace of King Sastipal of the Mallas."
+    },
+    {
+        "question": "Where was the First Jain Council held under the patronage of Chandragupta Maurya, where the Jain canon was compiled?",
+        "options": ["Vallabhi", "Pataliputra", "Vaishali", "Rajgriha"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The First Jain Council was held around 300 BCE at 'Pataliputra' (Bihar), presided over by Sthulabhadra, during which Jainism split into two major sects: Digambara and Shvetambara."
+    },
+    {
+        "question": "In which year did the formal coronation of Emperor Ashoka take place, and whom did he succeed?",
+        "options": ["273 BCE - Chandragupta Maurya", "269 BCE - Bindusara", "261 BCE - Bimbisara", "250 BCE - Dasharatha"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Ashoka sat on the throne in 273 BCE, but due to a war of succession, his actual coronation took place four years later in 269 BCE. He succeeded his father, Bindusara."
+    },
+    {
+        "question": "By what titles or names is Emperor Ashoka commonly addressed in his rock inscriptions and Puranas?",
+        "options": ["Devanampriya Priyadarsi", "Ashokavardhana", "Maharajadhiraja", "Vikramaditya"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 In his inscriptions, Ashoka is referred to as 'Devanampriya' (Beloved of the Gods) and 'Priyadarsi' (He who regards everyone with affection). In the Vishnu Purana, he is called 'Ashokavardhana'."
+    },
+    {
+        "question": "The famous 'Kalinga War', which changed Ashoka's life completely, was fought in which year of his coronation?",
+        "options": ["4th year (265 BCE)", "8th year (261 BCE)", "10th year (259 BCE)", "12th year (257 BCE)"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Ashoka invaded Kalinga (modern Odisha) in the 8th year of his coronation, around 261 BCE. Witnessing the immense bloodshed and misery, he decided to abandon warfare forever."
+    },
+    {
+        "question": "Who was the Buddhist monk that initiated Emperor Ashoka into Buddhism after the Kalinga War?",
+        "options": ["Upagupta", "Ananda", "Vasumitra", "Bhadrabahu"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Following the heavy casualty in Kalinga, a deep remorse overtook Ashoka. He was initiated into Buddhism by the monk 'Upagupta', replacing 'Bherighosha' (war drum) with 'Dhammaghosha' (sound of Dhamma)."
+    },
+    {
+        "question": "Which Rock Edict of Emperor Ashoka provides a detailed account of the Kalinga War and his change of heart?",
+        "options": ["5th Rock Edict", "10th Rock Edict", "11th Rock Edict", "13th Rock Edict"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 Major Rock Edict XIII is the largest of Ashoka's edicts. It describes the victory over Kalinga, the massive suffering caused, and Ashoka's deep repentance."
+    },
+    {
+        "question": "The Lion Capital, which is adopted as the National Emblem of India, was built by Ashoka at which place?",
+        "options": ["Sanchi", "Sarnath", "Bharhut", "Lumbini"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The Lion Capital of Ashoka at 'Sarnath' was adopted by the Government of India as the National Emblem. The wheel featured at its base (Ashoka Chakra) contains 24 spokes."
+    },
+    {
+        "question": "Who was the first scholar to successfully decipher the Brahmi script used in Ashoka's inscriptions, and in which year?",
+        "options": ["Charles Wilkins - 1785", "William Jones - 1794", "James Prinsep - 1837", "John Marshall - 1921"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Padri Tieffenthaler discovered the inscriptions in 1750, but it was British antiquarian 'James Prinsep' who successfully read and deciphered the Brahmi script of the Ashokan edicts in 1837."
+    },
+    {
+        "question": "To which country did Ashoka send his son 'Mahendra' and daughter 'Sanghamitra' to propagate Buddhism?",
+        "options": ["Myanmar (Burma)", "Thailand", "Nepal", "Sri Lanka (Sinhala)"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 To turn Buddhism into a global faith, Ashoka dispatched his own son Mahendra and daughter Sanghamitra to Sri Lanka, where they successfully converted the local ruler to Buddhism."
+    },
+    {
+        "question": "Where was the Third Buddhist Council organized under the reign of Emperor Ashoka?",
+        "options": ["Pataliputra", "Rajgriha", "Vaishali", "Kashmir"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The Third Buddhist Council was held around 250 BCE at 'Pataliputra', the capital of the Mauryan Empire. It was presided over by Moggaliputta Tissa under Ashoka's royal patronage."
+    },
+    {
+        "question": "In which language and script are the majority of Ashoka's inscriptions found within the Indian subcontinent?",
+        "options": ["Prakrit language - Brahmi script", "Sanskrit language - Kharosthi script", "Pali language - Aramaic script", "Ardhamagadhi language - Greek script"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Most of Ashoka's decrees are written in the Prakrit language using the Brahmi script. Only those found in the north-western frontiers (Pakistan/Afghanistan) utilize Kharosthi, Aramaic, or Greek scripts."
+    },
     
