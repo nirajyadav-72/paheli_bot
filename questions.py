@@ -3397,4 +3397,284 @@ QUIZ_LIST = [
         "lang": "english",
         "explanation": "💡 Most of Ashoka's decrees are written in the Prakrit language using the Brahmi script. Only those found in the north-western frontiers (Pakistan/Afghanistan) utilize Kharosthi, Aramaic, or Greek scripts."
     },
+    {
+        "question": "Influenced by his bravery and military conquests, historian Vincent Smith called Samudragupta by which famous title?",
+        "options": ["The Napoleon of India", "Kaviraja", "Vikramaditya", "Shakari"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Samudragupta never lost a battle during his lifetime. Due to his undefeated military strategy, historian V. A. Smith designated him as the 'Napoleon of India'."
+    },
+    {
+        "question": "Who composed the famous 'Prayag Prashasti' (Allahabad Pillar Inscription), which gives a detailed account of Samudragupta's military campaigns?",
+        "options": ["Bhanabhatta", "Harishena", "Kalidasa", "Virasen"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Samudragupta's court poet and minister of war, 'Harishena', composed the Prayag Prashasti in the Champu style (a mix of prose and poetry)."
+    },
+    {
+        "question": "On certain Gupta coins, Samudragupta is depicted playing which musical instrument, highlighting his love for music?",
+        "options": ["Flute", "Tabla", "Veena", "Shehnai"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Samudragupta was a great patron of art and music. He is depicted playing the 'Veena' on his gold coins, and he was also given the title of 'Kaviraja' (King of Poets)."
+    },
+    {
+        "question": "Which ancient Hindu sacrificial ritual did Samudragupta perform to celebrate his imperial conquests, subsequently adopting a related title?",
+        "options": ["Rajasuya Yajna", "Ashvamedha Yajna", "Vajapeya Yajna", "Purushamedha Yajna"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 After defeating the rulers of Northern and Southern India, Samudragupta performed the horse sacrifice, assuming the title 'Ashvamedha Parakrama' and issuing special gold coins."
+    },
+    {
+        "question": "Which ruler of the Gupta dynasty completely defeated the Shakas of Western India and assumed the famous title 'Vikramaditya'?",
+        "options": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Samudragupta's son, Chandragupta II, defeated the last Shaka ruler, Rudrasimha III. To commemorate this victory, he assumed the titles 'Vikramaditya' and 'Shakari' (destroyer of Shakas)."
+    },
+    {
+        "question": "Which of the following pairs of scholars were NOT part of the 'Navaratnas' (Nine Jewels) who adorned the court of Chandragupta II?",
+        "options": ["Kalidasa and Dhanvantari", "Varahamihira and Amarasimha", "Shapanaka and Vararuchi", "Banabhatta and Harishena"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 Banabhatta was the court poet of Emperor Harshavardhana, while Harishena belonged to Samudragupta's court. Kalidasa, Dhanvantari, Varahamihira, and others were part of Chandragupta II's Navaratnas."
+    },
+    {
+        "question": "The famous Chinese Buddhist traveler Faxian (Fa-Hien) visited India during the reign of which Gupta emperor?",
+        "options": ["Chandragupta Maurya", "Chandragupta II", "Harshavardhana", "Kanishka"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Faxian traveled through India between 399 CE and 414 CE during the reign of Chandragupta II 'Vikramaditya' to collect sacred Buddhist texts and visit holy Buddhist sites."
+    },
+    {
+        "question": "Located near the Qutub Minar complex in Delhi, the famous 'Mehrauli Iron Pillar' is associated with which Gupta ruler?",
+        "options": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Kumaragupta"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The inscription on the Mehrauli iron pillar mentions a king named 'Chandra', identified by historians as Chandragupta II. It stands as an rust-free marvel of ancient Indian metallurgy."
+    },
+    {
+        "question": "To commemorate his victory over the Shakas, Chandragupta II specifically issued coins made of which metal?",
+        "options": ["Copper", "Gold", "Silver", "Bronze"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 After defeating the Shaka satraps, Chandragupta II introduced high-quality silver coins (known as Rupaka) modeled on the Shaka currency for the Malwa and Gujarat regions."
+    },
+    {
+        "question": "Which period is traditionally described as the 'Golden Age of Indian History' due to its monumental progress in art, literature, and science?",
+        "options": ["Mauryan Period", "Gupta Period", "Kushan Period", "Mughal Period"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The peace, economic prosperity, and spectacular achievements in art and science (contributions of Aryabhata, Kalidasa, etc.) during the reigns of Samudragupta and Chandragupta II earned the Gupta period this title."
+    },
+    {
+        "question": "At what age did Emperor Harshavardhana ascend the throne of Thanesar in 606 CE, and what title did he adopt?",
+        "options": ["16 years - Shiladitya", "20 years - Vikramaditya", "25 years - Maharajadhiraja", "12 years - Devaputra"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Following the untimely demise of his elder brother Rajyavardhana, Harshavardhana ascended the throne at the tender age of 16. In historical texts, he is also fondly known as 'Shiladitya'."
+    },
+    {
+        "question": "Emperor Harshavardhana shifted his imperial capital from its original location at Thanesar to which city?",
+        "options": ["Pataliputra", "Kannauj", "Prayag", "Mathura"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 To ensure the safety of his widowed sister Rajyashri and to better consolidate the administration of Northern India, Harsha established 'Kannauj' (in modern Uttar Pradesh) as his new grand capital."
+    },
+    {
+        "question": "The famous Chinese Buddhist pilgrim Xuanzang (Hiuen Tsang) visited India during the reign of which monarch?",
+        "options": ["Chandragupta II", "Samudragupta", "Harshavardhana", "Kanishka"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Known as the 'Prince of Pilgrims', Xuanzang traveled through India between 629 and 645 CE during Harsha's reign. He spent several years studying sacred Buddhist texts at the Nalanda University."
+    },
+    {
+        "question": "Which powerful Chalukyan king defeated Harshavardhana on the banks of the Narmada River, halting his southern expansion?",
+        "options": ["Pulakeshin I", "Pulakeshin II", "Vikramaditya I", "Kirtivarman"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 King 'Pulakeshin II' of the Western Chalukya dynasty successfully repelled Harsha's advance across the Narmada River. This historic clash is vividly recorded in the famous Aihole Inscription."
+    },
+    {
+        "question": "Which two literary masterpieces were composed by Banabhatta, the celebrated court poet of Emperor Harsha?",
+        "options": ["Harshacharita and Kadambari", "Priyadarsika and Ratnavali", "Rajatarangini and Mudrarakshasa", "Gitagovinda and Malatimadhava"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Banabhatta authored the 'Harshacharita', a detailed biography of Emperor Harsha, and 'Kadambari', which is widely celebrated as one of the world's earliest novels."
+    },
+    {
+        "question": "Emperor Harsha was himself an accomplished scholar. Which three Sanskrit plays are traditionally attributed to his authorship?",
+        "options": ["Abhijnanasakuntalam, Malavikagnimitram, Vikramorvashiyam", "Priyadarsika, Ratnavali, Nagananda", "Mudrarakshasa, Devichandraguptam, Mrichchhakatikam", "Panchatantra, Hitopadesha, Amarakosha"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Indian history recognizes Emperor Harsha as a talented playwright who penned three highly acclaimed Sanskrit dramas: 'Priyadarsika', 'Ratnavali', and 'Nagananda'."
+    },
+    {
+        "question": "What is the title of the famous travelogue that compiles the memoirs and observations of the Chinese traveler Xuanzang?",
+        "options": ["Fo-Kuo-Ki", "Si-Yu-Ki", "Indica", "Periplus"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Xuanzang's detailed travel account is titled 'Si-Yu-Ki' (Records of the Western World). It serves as an invaluable historical window into the social, economic, and religious fabric of Harsha's empire."
+    },
+    {
+        "question": "Every five years, Harshavardhana organized a grand assembly called 'Mahamoksha Parishad' for religious discourse and immense charity at which location?",
+        "options": ["Kannauj", "Thanesar", "Prayag (Allahabad)", "Varanasi"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Deeply benevolent, Harsha convened the Mahamoksha Parishad at the holy confluence of Ganga and Yamuna in 'Prayag', where he would give away all his accumulated imperial wealth to the needy. Xuanzang attended the 6th such assembly."
+    },
+    {
+        "question": "According to contemporary accounts, which Indian city was globally renowned as the premier hub for cotton textile production during Harsha's reign?",
+        "options": ["Mathura", "Varanasi", "Pataliputra", "Kannauj"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 In his descriptive travel writings, Xuanzang explicitly highlights that 'Mathura' was a highly prosperous industrial center, celebrated far and wide for manufacturing exceptionally fine cotton fabrics."
+    },
+    {
+        "question": "Who was the legendary Buddhist scholar serving as the Vice-Chancellor (Kulapati) of Nalanda University when Xuanzang studied there?",
+        "options": ["Acharya Shilabhadra", "Acharya Vasumitra", "Acharya Nagarjuna", "Acharya Dinnaga"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 When Xuanzang arrived to immerse himself in Buddhist philosophies at Nalanda, the internationally acclaimed monastery-university was headed by the venerable monk and sage 'Acharya Shilabhadra'."
+    },
+    {
+        "question": "Which epic poem was composed by the famous Rajput poet Chand Bardai on the life of Prithviraj Chauhan, widely considered the first epic in Hindi literature?",
+        "options": ["Prithviraj Raso", "Hammir Raso", "Bisaldeo Raso", "Khuman Raso"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Chand Bardai was the court poet of Prithviraj III (Chauhan). He authored 'Prithviraj Raso', which provides a heroic and poetic account of the battles of Tarain and Prithviraj's achievements."
+    },
+    {
+        "question": "The First Battle of Tarain (1191 CE) and the Second Battle of Tarain (1192 CE) were fought between Prithviraj Chauhan and which invader?",
+        "options": ["Mahmud of Ghazni", "Muhammad Ghori", "Qutb-ud-din Aibak", "Iltutmish"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Prithviraj Chauhan won the First Battle of Tarain in 1191 CE. However, in the very next year (1192 CE), Muhammad Ghori defeated him in the Second Battle of Tarain, laying the foundation of Muslim rule in India."
+    },
+    {
+        "question": "The swayamvara of Samyogita, daughter of which famous Gahadavala (Rathore) king of Kannauj, is a well-known romantic legend associated with Prithviraj Chauhan?",
+        "options": ["Raja Jayachandra", "Raja Govindachandra", "Raja Vijayachandra", "Raja Chandradeva"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 There was a deep political rivalry between King Jayachandra of Kannauj and Prithviraj Chauhan. The abduction and marriage of Jayachandra's daughter Samyogita by Prithviraj is a legendary event in Rajput history."
+    },
+    {
+        "question": "The magnificent Khajuraho Temples in Madhya Pradesh were constructed between 950 and 1050 CE by the rulers of which Rajput dynasty?",
+        "options": ["Paramara Dynasty", "Solanki Dynasty", "Chandela Dynasty", "Chauhan Dynasty"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The Chandela rulers of Bundelkhand built the grand temples of Khajuraho, among which the Kandariya Mahadeva Temple is the most famous. It is a UNESCO World Heritage Site."
+    },
+    {
+        "question": "The exquisite Dilwara Jain Temples on Mount Abu in Rajasthan were constructed during the reign of which Rajput dynasty?",
+        "options": ["Solanki Dynasty (Chalukya)", "Pratihara Dynasty", "Guhil Dynasty", "Rathore Dynasty"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Vimal Shah, a minister under King Bhimdev I of the Solanki (Chalukya) dynasty of Gujarat, commissioned the Dilwara Temples out of white marble in 1031 CE, showcasing exceptional craftsmanship."
+    },
+    {
+        "question": "The famous Sun Temple of Konark (Black Pagoda) in Odisha, a contemporary marvel of the Rajput era's architecture, was built in the 13th century by which ruler?",
+        "options": ["Anantavarman Chodaganga", "Narasimhadhava I", "Kapilendra Deva", "Purushottama Deva"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 King Narasimhadeva I of the Eastern Ganga dynasty built the Konark Sun Temple. Designed in the shape of a colossal chariot, it features 24 intricately carved stone wheels."
+    },
+    {
+        "question": "Who is the author of 'Rajatarangini', the celebrated historical chronicle that provides a detailed account of the history of Kashmir and Northern India during the Rajput period?",
+        "options": ["Bilhana", "Kalhana", "Somadeva", "Merutunga"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Kalhana composed 'Rajatarangini' in Sanskrit during the 12th century. It is widely regarded as the first work in India written with a scientific and chronological historical approach."
+    },
+    {
+        "question": "Which famous Paramara king of Malwa was called 'Kaviraja' due to his immense scholarship and built the 'Saraswati Temple' (Bhojshala) in Dhar?",
+        "options": ["Raja Munja", "Raja Sindhuraja", "Raja Bhoja", "Upendra Raja"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 King Bhoja of the Paramara dynasty was a great scholar of art, literature, and science. He founded the city of Bhopal (Bhojpal) and authored influential treatises like 'Samarangana Sutradhara' and 'Ayurveda Sarvasva'."
+    },
+    {
+        "question": "Jayadeva, the author of the epic devotional poem 'Gita Govinda', was the court poet of which Rajput/Sena dynasty ruler of Bengal?",
+        "options": ["Samanta Sena", "Vijaya Sena", "Ballala Sena", "Lakshmana Sena"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 Jayadeva, who wrote the 'Gita Govinda' capturing the divine love of Krishna and Radha, was a court poet under Lakshmana Sena, the last prominent Hindu ruler of Bengal."
+    },
+    {
+        "question": "In which literary work does the famous 'Agnikula Theory' of Rajput origin—stating that four Rajput clans emerged from a sacrificial fire pit—first find mention?",
+        "options": ["Prithviraj Raso", "Harshacharita", "Rajatarangini", "Kumarapalacharita"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 According to 'Prithviraj Raso', Sage Vashistha performed a sacred yajna on Mount Abu, from whose sacrificial fire pit four Rajput clans—the Pratiharas, Paramaras, Chalukyas (Solankis), and Chauhans—were born."
+    },
+    {
+        "question": "Which sultan of the Delhi Sultanate was given the title 'Lakh Baksh' (Giver of Lakhs) due to his immense generosity and charity?",
+        "options": ["Iltutmish", "Qutb-ud-din Aibak", "Alauddin Khalji", "Firoz Shah Tughlaq"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Qutb-ud-din Aibak (1206-1210 CE), the founder of the Slave Dynasty, was called 'Lakh Baksh' because he gave away large sums of money in charity. He also laid the foundation stone of the Qutub Minar."
+    },
+    {
+        "question": "Who was the first and only Muslim woman ruler of the Delhi Sultanate, reigning from 1236 to 1240 CE?",
+        "options": ["Chand Bibi", "Noor Jahan", "Razia Sultan", "Mumtaz Mahal"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Razia Sultan was the daughter of Sultan Iltutmish. She broke traditional norms to ascend the throne, becoming the only woman to rule the Delhi Sultanate."
+    },
+    {
+        "question": "Who completely destroyed the 'Turkan-i-Chahalgani' (the elite corps of 40 Turkish nobles) originally created by Iltutmish?",
+        "options": ["Balban", "Alauddin Khalji", "Ghiyasuddin Tughlaq", "Muhammad bin Tughlaq"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Ghiyasuddin Balban abolished the Chahalgani group to eliminate political rivals and centralise royal power. He famously introduced the strict policy of 'Blood and Iron'."
+    },
+    {
+        "question": "Which sultan of Delhi introduced a highly efficient 'Market Control System' and fixed the prices of essential commodities?",
+        "options": ["Balban", "Alauddin Khalji", "Sikandar Lodi", "Jalaluddin Khalji"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Alauddin Khalji implemented market reforms to maintain a massive standing army at low cost. He created the 'Diwan-i-Riyasat' department to strictly enforce fixed prices."
+    },
+    {
+        "question": "The famous poet and musician Amir Khusrau, known as the 'Parrot of India' (Tuti-e-Hind), was primarily the court poet of which sultan?",
+        "options": ["Iltutmish", "Alauddin Khalji", "Muhammad bin Tughlaq", "Khizr Khan"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Although Amir Khusrau witnessed the reigns of several sultans, he was most prominently attached to Alauddin Khalji's court. He is credited as the father of Khari Boli Hindi and Qawwali."
+    },
+    {
+        "question": "Which sultan is widely known in history as a 'Mad or Visionary King' due to his controversial projects, such as shifting the capital and introducing token currency?",
+        "options": ["Ghiyasuddin Tughlaq", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Bahlul Lodi"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Muhammad bin Tughlaq (MBT) was highly educated but his experimental policies failed miserably. His most controversial steps were shifting the capital from Delhi to Daulatabad and introducing copper-brass token coins."
+    },
+    {
+        "question": "The famous Moroccan traveler Ibn Battuta visited India during the reign of which sultan and authored the book 'Rihla'?",
+        "options": ["Alauddin Khalji", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Ibrahim Lodi"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Ibn Battuta arrived in India in 1333 CE during Muhammad bin Tughlaq's reign. The Sultan was so impressed by his scholarship that he appointed him as the Qazi (Chief Judge) of Delhi."
+    },
+    {
+        "question": "Which sultan created a dedicated department called 'Diwan-i-Bandagan' to look after slaves and built the maximum number of canals?",
+        "options": ["Balban", "Alauddin Khalji", "Firoz Shah Tughlaq", "Sikandar Lodi"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Firoz Shah Tughlaq (FST) maintained a record number of slaves (around 1,80,000) and set up 'Diwan-i-Bandagan' for them. He is also famous for building large canal networks and charitable hospitals."
+    },
+    {
+        "question": "Who founded the city of 'Agra' in 1504 CE and later made it the new capital of the Delhi Sultanate?",
+        "options": ["Bahlul Lodi", "Sikandar Lodi", "Ibrahim Lodi", "Khizr Khan"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Sikandar Lodi, the most powerful ruler of the Lodi Dynasty, founded Agra in 1504 CE to improve administrative hold. He also introduced a land measurement unit called 'Gaj-i-Sikandari'."
+    },
+    {
+        "question": "In the First Battle of Panipat (21 April 1526), Babur defeated which last sultan, bringing an end to the Delhi Sultanate?",
+        "options": ["Sikandar Lodi", "Ibrahim Lodi", "Bahlul Lodi", "Daulat Khan Lodi"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Babur defeated Ibrahim Lodi at Panipat. Ibrahim Lodi holds the record of being the only sultan of Delhi to die directly on the battlefield, which paved the way for the Mughal Empire."
+    },
     
