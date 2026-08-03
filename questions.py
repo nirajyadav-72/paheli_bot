@@ -3677,4 +3677,354 @@ QUIZ_LIST = [
         "lang": "english",
         "explanation": "💡 Babur defeated Ibrahim Lodi at Panipat. Ibrahim Lodi holds the record of being the only sultan of Delhi to die directly on the battlefield, which paved the way for the Mughal Empire."
     },
+    {
+        "question": "Babur, the founder of the Mughal Empire in India, wrote his famous autobiography 'Tuzuk-e-Babri' (Baburnama) in which language?",
+        "options": ["Persian", "Arabic", "Chagatai Turkic", "Urdu"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Babur wrote his personal memoirs in his mother tongue, Chagatai Turkic. It was later translated into Persian during Akbar's reign by Abdul Rahim Khan-e-Khana."
+    },
+    {
+        "question": "Who authored the historical chronicle 'Humayun-nama', providing a detailed account of the life and reign of Emperor Humayun?",
+        "options": ["Gulbadan Begum", "Noor Jahan", "Hamida Banu Begum", "Jahanara Begum"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Humayun's half-sister, 'Gulbadan Begum', penned 'Humayun-nama' at the special request of Emperor Akbar to preserve the family's history."
+    },
+    {
+        "question": "The Second Battle of Panipat (1556 CE), which consolidated Mughal rule, was fought between Hemu and the forces of which Mughal Emperor?",
+        "options": ["Babur", "Akbar", "Shah Jahan", "Jahangir"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 On 5 November 1556, the young Emperor Akbar (under the military guardianship of Bairam Khan) defeated Hemu (Hemchandra Vikramaditya) in the Second Battle of Panipat."
+    },
+    {
+        "question": "Who was the only Hindu courtier to accept the syncretic religious socio-philosophy 'Din-i-Ilahi' introduced by Akbar in 1582 CE?",
+        "options": ["Raja Man Singh", "Raja Todar Mal", "Raja Birbal (Mahesh Das)", "Raja Bhagwan Das"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Akbar introduced 'Din-i-Ilahi' (Divine Monotheism) to bridge religious divides. Out of his vast nobility, 'Birbal' was the sole Hindu who officially adopted it."
+    },
+    {
+        "question": "Which of Akbar's courtiers formulated the highly successful 'Dahsala System' or 'Zabti System' for land revenue reforms?",
+        "options": ["Birbal", "Abdul Rahim", "Tansen", "Raja Todar Mal"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 Akbar's brilliant finance minister, Raja Todar Mal, designed the Dahsala system, which calculated taxes based on the average crop yield and prices of the preceding ten years."
+    },
+    {
+        "question": "Who was the first English ambassador sent by King James I to the Mughal court whom Emperor Jahangir titled 'English Khan'?",
+        "options": ["Sir Thomas Roe", "Captain William Hawkins", "Ralph Fitch", "George Everest"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Captain William Hawkins arrived at Jahangir's Agra court in 1608. Fluent in Turkish, he impressed Jahangir, who awarded him a mansab (rank) and the title 'English Khan'."
+    },
+    {
+        "question": "The reign of which Mughal Emperor is universally recognized as the 'Golden Age of Mughal Architecture'?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Shah Jahan's reign saw magnificent architectural growth. He commissioned global marvels like the Taj Mahal, the Red Fort of Delhi, the Jama Masjid, and the Moti Masjid of Agra."
+    },
+    {
+        "question": "Mughal painting reached its absolute zenith and aesthetic pinnacle during the reign of which Emperor?",
+        "options": ["Humayun", "Akbar", "Jahangir", "Shah Jahan"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Jahangir was a keen connoisseur of fine arts. Under his patronage, painters like Ustad Mansur and Abul Hasan excelled, making his era the golden age of Mughal miniatures."
+    },
+    {
+        "question": "Which Mughal Emperor was widely referred to as 'Zinda Pir' (The Living Saint) due to his extremely austere personal life and orthodox habits?",
+        "options": ["Shah Jahan", "Aurangzeb", "Bahadur Shah I", "Jahandar Shah"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Aurangzeb avoided imperial luxuries, stitched caps, and hand-copied the Quran to earn his personal livelihood, leading his subjects to call him 'Zinda Pir'."
+    },
+    {
+        "question": "The historic Battle of Haldighati (1576 CE) was fought between Maharana Pratap of Mewar and the Mughal forces led by which general?",
+        "options": ["Raja Todar Mal", "Raja Man Singh", "Bairam Khan", "Asaf Khan"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 On 18 June 1576, the armies of Maharana Pratap and the Mughal force—commanded directly by Akbar's trusted general, Raja Man Singh of Amber—clashed at Haldighati."
+    },
+    {
+        "question": "Where was the grand coronation of Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire, performed by Pandit Gaga Bhatt in 1674?",
+        "options": ["Pune Fort", "Raigad Fort", "Satara Fort", "Gingee Fort"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 On June 6, 1674, Vishweshwar Bhat (Gaga Bhatt), a celebrated scholar from Kashi, conducted the formal coronation of Shivaji Maharaj at Raigad Fort, where he assumed the title of 'Chhatrapati'."
+    },
+    {
+        "question": "What was the administrative council of eight ministers appointed by Chhatrapati Shivaji Maharaj to assist in governance called?",
+        "options": ["Ashtadiggajas", "Navaratnas", "Ashtapradhan", "Mantriparishad"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Shivaji Maharaj was assisted by an advisory council of eight ministers known as the 'Ashtapradhan'. The highest and most powerful post among them was the 'Peshwa' (Prime Minister)."
+    },
+    {
+        "question": "In Maratha administration, what was the security tax levied on neighbouring territories to save them from external raids, amounting to 25% of their revenue?",
+        "options": ["Sardeshmukhi", "Chauth", "Jizya", "Kharaj"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 'Chauth' (meaning one-fourth) was an annual tax collected by the Marathas from non-Maratha territories in exchange for protection from invasions. Sardeshmukhi was an additional 10% tax based on hereditary claims."
+    },
+    {
+        "question": "Chhatrapati Shivaji Maharaj extensively used which military tactic or combat strategy to successfully counter the massive armies of the Mughals and Adil Shahi?",
+        "options": ["Tulughma system", "Guerilla / Guerrilla Warfare", "Frontal pitched battle", "Elephant line offensive"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Maximising the advantage of the rugged terrain of the Western Ghats, the Maratha army relied on swift, surprise hit-and-run tactics, famously known as 'Guerilla Warfare' or 'Ganimi Kava'."
+    },
+    {
+        "question": "Which historic treaty was signed in 1665 between Mirza Raja Jai Singh and Chhatrapati Shivaji Maharaj, forcing the Marathas to cede 23 forts to the Mughals?",
+        "options": ["Treaty of Pune", "Treaty of Surat", "Treaty of Purandar", "Treaty of Salbai"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Signed on June 11, 1665, the 'Treaty of Purandar' was a tactical diplomatic compromise following a heavy siege by Raja Jai Singh, acting on behalf of Mughal Emperor Aurangzeb."
+    },
+    {
+        "question": "In the Maratha cavalry structure, what were the permanent and state-financed troopers who were provided horses and weapons by the state called?",
+        "options": ["Bargirs", "Silahdars", "Mavalis", "Infantrymen"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The regular state cavalry consisted of 'Bargirs' who received equipment from the state treasury, while 'Silahdars' were independent horsemen who maintained their own horses and armor."
+    },
+    {
+        "question": "Who was the eldest son of Chhatrapati Shivaji Maharaj who succeeded him but was later captured and executed by the Mughal Emperor Aurangzeb in 1689?",
+        "options": ["Rajaram", "Chhatrapati Shahu Ji", "Chhatrapati Sambhaji Maharaj", "Shivaji II"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Chhatrapati Sambhaji Maharaj took charge after his father's death in 1680. He fought the Mughals valiantly but was captured at Sangameshwar and executed in 1689 by Aurangzeb's forces."
+    },
+    {
+        "question": "Which brilliant military commander is famously known as the 'Fighting Peshwa' and advocated expansion into North India under the banner of 'Hindu Pad Padshahi'?",
+        "options": ["Balaji Vishwanath", "Baji Rao I", "Balaji Baji Rao", "Madhavrao I"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Baji Rao I (1720–1740) was an undefeated cavalry commander under whom Maratha power reached the gates of Delhi. He is also remembered globally for his legendary relationship with Mastani."
+    },
+    {
+        "question": "Under which Peshwa, also popularly known as 'Nana Saheb', did Maratha expansion hit its absolute territorial peak across India?",
+        "options": ["Baji Rao I", "Balaji Baji Rao", "Balaji Vishwanath", "Narayanrao"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Balaji Baji Rao (1740–1761) oversaw an empire that stretched 'from Attock to Cuttack'. During his reign, the position of Peshwa became completely hereditary and the supreme de facto center of power."
+    },
+    {
+        "question": "The Third Battle of Panipat (14 January 1761) was fought between the Maratha Empire and which invading Afghan king, leading to a crushing Maratha defeat?",
+        "options": ["Ahmad Shah Abdali", "Nadir Shah", "Timur Lang", "Genghis Khan"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The Third Battle of Panipat was fought between Ahmad Shah Abdali and the Marathas (led by Sadashivrao Bhau). The severe loss permanently checked Maratha ambitions of absolute pan-Indian control."
+    },
+    {
+        "question": "The political foundation of the British Raj in India began with which historic battle (23 June 1757) where Robert Clive defeated Nawab Siraj-ud-Daulah of Bengal?",
+        "options": ["Battle of Buxar", "Battle of Plassey", "Battle of Wandiwash", "Battle of Panipat"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The Battle of Plassey was won by the British on 23 June 1757, largely due to the treachery of the Nawab's commander, Mir Jafar. This victory laid the groundwork for British rule in India."
+    },
+    {
+        "question": "In which decisive battle (22 October 1764) did the British defeat the combined forces of Mir Qasim, Shuja-ud-Daulah, and Shah Alam II to establish total dominance over Bengal?",
+        "options": ["Battle of Plassey", "Battle of Buxar", "Battle of Karnataka", "Battle of Chillianwala"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Led by Hector Munro, the British forces won the Battle of Buxar. This led to the Treaty of Allahabad in 1765, giving the East India Company 'Diwani Rights' (revenue collection rights) over Bengal, Bihar, and Odisha."
+    },
+    {
+        "question": "Which controversial policy was introduced by Lord Dalhousie to annex princely states like Jhansi and Awadh into the British Empire?",
+        "options": ["Subsidiary Alliance", "Doctrine of Lapse", "Permanent Settlement", "Dyarchy"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Under the Doctrine of Lapse, if a ruler of a dependent state died without a natural heir, the right of governing passed to the British. Jhansi, Satara, and Nagpur were annexed this way, while Awadh was taken over on charges of misgovernance."
+    },
+    {
+        "question": "The First War of Independence in 1857 formally and collectively began on 10 May 1857 with a mutiny by sepoys at which military station?",
+        "options": ["Barrackpore", "Meerut", "Delhi", "Kanpur"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Although Mangal Pandey revolted individually in Barrackpore in March, the formal, collective outbreak of the 1857 Revolt took place on 10 May 1857 when the sepoys of the 20 N.I. regiment at Meerut openly rebelled."
+    },
+    {
+        "question": "What was the primary immediate cause of the Revolt of 1857 that triggered widespread anger among both Hindu and Muslim sepoys?",
+        "options": ["Dalhousie's annexation policy", "Low salary of Indian soldiers", "Introduction of greased cartridges", "Spread of Christian missionary activities"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The introduction of the new Enfield rifle required soldiers to bite off the top of cartridges rumored to be greased with cow and pig fat. This deeply offended the religious sentiments of both Hindu and Muslim sepoys, sparking the rebellion."
+    },
+    {
+        "question": "Which brave Indian sepoy of the Barrackpore cantonment fired at his British officer, Sergeant Major Hudson, on 29 March 1857?",
+        "options": ["Tatya Tope", "Mangal Pandey", "Bhagat Singh", "Kunwar Singh"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Mangal Pandey, a soldier of the 34th Bengal Native Infantry, revolted at Barrackpore against the greased cartridges. He was subsequently arrested and executed on 8 April 1857, becoming an early icon of the resistance."
+    },
+    {
+        "question": "Who was the Governor-General of India during the Revolt of 1857, who later became the first Viceroy of India?",
+        "options": ["Lord Dalhousie", "Lord Canning", "Lord Curzon", "Lord William Bentinck"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Lord Canning was the Governor-General in 1857. Following the revolt, the Government of India Act 1858 transferred power from the East India Company directly to the British Crown, making Canning the first Viceroy."
+    },
+    {
+        "question": "Who was the legendary 80-year-old landlord from Jagdishpur who led the anti-British forces during the 1857 Revolt in Bihar?",
+        "options": ["Babu Kunwar Singh", "Khan Bahadur Khan", "Maulvi Ahmadullah", "Nana Saheb"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Babu Kunwar Singh led the rebellion in Bihar. Popularly known as the 'Lion of Bihar', he engaged in brilliant guerrilla tactics and defeated British forces multiple times despite his advanced age."
+    },
+    {
+        "question": "Who led the rebellion from Kanpur during the 1857 Revolt, assisted by his capable military commander, Ramachandra Panduranga?",
+        "options": ["Begum Hazrat Mahal - Birjis Qadr", "Nana Saheb - Tatya Tope", "Rani Lakshmibai - Rao Saheb", "Bahadur Shah Zafar - Bakht Khan"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Nana Saheb, the adopted son of the last Peshwa Baji Rao II, led the revolt in Kanpur. His army was ably commanded by Tatya Tope, whose real name was Ramachandra Panduranga."
+    },
+    {
+        "question": "Which British military officer crushed the rebellion in Jhansi and remarked that Rani Lakshmibai was 'the only man among the mutineers'?",
+        "options": ["Campbell", "Hudson", "Sir Hugh Rose", "General Neil"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 General Sir Hugh Rose led the British forces against Jhansi and Gwalior. Impressed by Rani Lakshmibai's extraordinary courage and military skill on the battlefield, he paid her this famous tribute after her martyrdom."
+    },
+    {
+        "question": "Who was the first Indian leader to propagate the 'Drain of Wealth Theory', detailing how Britain systematically siphoned off India's wealth?",
+        "options": ["Mahadev Govind Ranade", "Gopal Krishna Gokhale", "Dadabhai Naoroji", "Bal Gangadhar Tilak"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Dadabhai Naoroji, known as the 'Grand Old Man of India', detailed this systemic economic drain in his landmark book 'Poverty and Un-British Rule in India'."
+    },
+    {
+        "question": "Which land revenue system was introduced by Lord Cornwallis in 1793 across Bengal, Bihar, and Odisha, turning zamindars into absolute landowners?",
+        "options": ["Ryotwari System", "Mahalwari System", "Permanent Settlement (Istamrari)", "Zabti System"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The Permanent Settlement fixed land revenue demands perpetually. It included the strict 'Sunset Law', under which a zamindar's estate was auctioned if taxes were not paid by sunset of the specified date."
+    },
+    {
+        "question": "Which land revenue system was introduced by Thomas Munro and Captain Read in the Madras and Bombay Presidencies, collecting taxes directly from the cultivators?",
+        "options": ["Permanent Settlement", "Mahalwari System", "Ryotwari System", "Dahsala System"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 The Ryotwari System recognized the 'Ryot' (peasant) as the absolute land proprietor without middlemen. It covered nearly 51% of British India's territory."
+    },
+    {
+        "question": "Which land revenue system was introduced by Holt Mackenzie and Merttins Bird in North India, where tax was assessed collectively on an entire village or estate?",
+        "options": ["Mahalwari System", "Ryotwari System", "Permanent Settlement", "Izaredari System"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 In the Mahalwari System, a 'Mahal' meant a village or community estate. The village headmen or committees were collectively made responsible for depositing taxes with the British Raj."
+    },
+    {
+        "question": "Governor-General Lord William Bentinck outlawed which deep-rooted social evil in 1829 by passing Regulation XVII with the help of Raja Ram Mohan Roy?",
+        "options": ["Slavery", "Sati Pratha", "Child Marriage", "Female Infanticide"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Relentless social campaigns led by Raja Ram Mohan Roy convinced Lord William Bentinck to declare the practice of Sati illegal and punishable as culpable homicide."
+    },
+    {
+        "question": "The tireless efforts of which Indian social reformer directly led to the enactment of the 'Hindu Widows' Remarriage Act' in 1856?",
+        "options": ["Ishwar Chandra Vidyasagar", "Jyotirao Phule", "Dayanand Saraswati", "Keshab Chandra Sen"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Ishwar Chandra Vidyasagar presented massive Vedic scripts to prove widow remarriage was valid. His petitions moved Lord Canning's administration to legalize widow remarriages in 1856."
+    },
+    {
+        "question": "Who is considered the pioneer of modern English education in India, having authored the 1835 'Education Minute' recommending English as the medium of instruction?",
+        "options": ["Lord Macaulay", "Lord Dalhousie", "Charles Wood", "William Jones"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Lord Macaulay's education strategy aimed to create a class of Indians 'English in taste and intellect' to serve administrative needs, formalizing English as the official language of higher education."
+    },
+    {
+        "question": "Which landmark document introduced under Lord Dalhousie's tenure in 1854 is celebrated as the 'Magna Carta of English Education in India'?",
+        "options": ["Macaulay's Minute", "Hunter Commission Report", "Wood's Despatch", "Raleigh Commission Report"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Charles Wood's Despatch proposed a structured system from vernacular primary schools up to English universities, directly leading to the opening of universities in Calcutta, Bombay, and Madras."
+    },
+    {
+        "question": "India's first commercial cotton textile mill (1854) in Bombay and first jute mill (1855) in Rishra were established during the tenure of which Governor-General?",
+        "options": ["Lord Hardinge", "Lord Dalhousie", "Lord Canning", "Lord Curzon"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Modern industrialization in India took root under Lord Dalhousie, who also oversaw the rollout of the first commercial passenger railway line (Bombay to Thane) and the electric telegraph in 1853."
+    },
+    {
+        "question": "What term do economic historians use to describe the destruction of India's traditional handicrafts, weavers, and artisanal industries due to British trade policies?",
+        "options": ["Industrialisation", "De-industrialisation", "Globalisation", "Commercialisation"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The British flooded Indian markets with cheap, machine-made fabrics from Manchester while taxing Indian textile exports heavily. This wrecked traditional handloom networks, driving millions out of work in a process called 'De-industrialisation'."
+    },
+    {
+        "question": "By whom was the Indian National Congress (INC) founded in Bombay on 28 December 1885?",
+        "options": ["A. O. Hume", "Dadabhai Naoroji", "Dinshaw Wacha", "Womesh Chandra Bonnerjee"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Allan Octavian Hume, a retired British civil servant, played the pivotal role in organizing the first meet and is widely revered as the father of the Indian National Congress."
+    },
+    {
+        "question": "Who presided over the historic first session of the Indian National Congress held at Gokuldas Tejpal Sanskrit College, Bombay, in 1885?",
+        "options": ["Surendranath Banerjee", "Womesh Chandra Bonnerjee (W. C. Bonnerjee)", "Pherozeshah Mehta", "Badruddin Tyabji"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Womesh Chandra Bonnerjee was elected as the very first president of the Congress. This maiden session was attended by a total of 72 delegates from all across India."
+    },
+    {
+        "question": "Who was the Viceroy of India at the time of the foundation of the Indian National Congress in 1885?",
+        "options": ["Lord Curzon", "Lord Dufferin", "Lord Ripon", "Lord Lytton"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 The Congress was established during the tenure of Lord Dufferin, who initially ridiculed the organization, calling it a 'microscopic minority' of the Indian population."
+    },
+    {
+        "question": "Who was the first Muslim President of the Indian National Congress, presiding over the 1887 Madras session?",
+        "options": ["Rahimtullah M. Sayani", "Maulana Abul Kalam Azad", "Badruddin Tyabji", "Sir Syed Ahmed Khan"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Badruddin Tyabji became the third president of the INC and its first Muslim head. He famously exhorted the community to join the mainstream movement with the slogan 'Become Congressmen'."
+    },
+    {
+        "question": "The initial phase of the Indian national movement (1885–1905) is traditionally classified as which phase?",
+        "options": ["Moderate Phase", "Extremist Phase", "Gandhian Phase", "Revolutionary Phase"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 The first 20 years of the INC are known as the Moderate phase. Leaders like Dadabhai Naoroji and Gopal Krishna Gokhale relied on constitutional means, prayers, petitions, and protests (3Ps)."
+    },
+    {
+        "question": "Who was the first Indian to be elected as a member of the British House of Commons, popularly known as the 'Grand Old Man of India'?",
+        "options": ["Gopal Krishna Gokhale", "Surendranath Banerjee", "Dadabhai Naoroji", "Madan Mohan Malaviya"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Dadabhai Naoroji was elected to the British Parliament in 1892 on a Liberal Party ticket from Central Finsbury, using the forum to voice India's grievances directly to the British public."
+    },
+    {
+        "question": "Who holds the distinction of being the first woman President of the Indian National Congress, presiding over the 1917 Calcutta session?",
+        "options": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Kasturba Gandhi"],
+        "correct_id": 1,
+        "lang": "english",
+        "explanation": "💡 Irish leader Annie Besant was the first woman to lead the Congress in 1917. (Note: Sarojini Naidu was the first *Indian* woman president, electing to the chair later in 1925 at Kanpur)."
+    },
+    {
+        "question": "In the year 1905, who founded the prominent socio-political organization named 'The Servants of India Society'?",
+        "options": ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Gopal Krishna Gokhale", "Chittaranjan Das"],
+        "correct_id": 2,
+        "lang": "english",
+        "explanation": "💡 Gopal Krishna Gokhale established the society to train young Indians to dedicate their lives to public service. Gokhale is also revered as the political guru of Mahatma Gandhi."
+    },
+    {
+        "question": "To foster a spirit of nationalism, who popularized the public celebrations of the 'Ganpati Festival' (1893) and 'Shivaji Festival' (1895) in Maharashtra?",
+        "options": ["Bal Gangadhar Tilak", "Vinayak Damodar Savarkar", "Gopal Hari Deshmukh", "Mahadev Govind Ranade"],
+        "correct_id": 0,
+        "lang": "english",
+        "explanation": "💡 Lokmanya Bal Gangadhar Tilak transformed these private household religious celebrations into large, public socio-cultural festivals to bypass British bans on political gatherings."
+    },
+    {
+        "question": "Opposing the mild constitutional approach of the moderates, who among the following was NOT a member of the famous assertive trio 'Lal-Bal-Pal'?",
+        "options": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Bipin Chandra Pal", "Pherozeshah Mehta"],
+        "correct_id": 3,
+        "lang": "english",
+        "explanation": "💡 Lal (Lala Lajpat Rai), Bal (Bal Gangadhar Tilak), and Pal (Bipin Chandra Pal) formed the core leadership of the Extremist (Assertive) faction, while Pherozeshah Mehta was a stalwart of the Moderates."
+    },
     
