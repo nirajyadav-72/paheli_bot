@@ -29,16 +29,16 @@ async def welcome_to_group(update: Update, context: ContextTypes.DEFAULT_TYPE):
             welcome_text = (
                 f"🤖 *पहेली गेम बॉट में आपका स्वागत है!*\n\n"
                 f"नमस्ते *{group_name}* के सदस्यों! मैं इस ग्रुप में आप सभी के मनोरंजन के लिए आ गया हूँ।\n\n"
-                f"🎮 *गेम शुरू करने के लिए:* `/paheli` टाइप करें।\n"
-                f"📊 *लीडरबोर्ड देखने के लिए:* `/score` टाइप करें।"
+                f"🎮 *गेम शुरू करने के लिए:* /paheli टाइप करें।\n"
+                f"📊 *लीडरबोर्ड देखने के लिए:* /score टाइप करें।"
             )
             await context.bot.send_message(chat_id=chat_id, text=welcome_text, parse_mode="Markdown")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "👋 स्वागत है पहेली बॉट में!\n\n"
-        "🎮 शुरू करने के लिए ग्रुप में: `/paheli` लिखें।\n"
-        "📊 स्कोर देखने के लिए: `/score` लिखें।"
+        "🎮 शुरू करने के लिए ग्रुप में: /paheli लिखें।\n"
+        "📊 स्कोर देखने के लिए: /score लिखें।"
     )
 
 # 👑 ओनर के लिए स्पेशल कमांड (सिर्फ एडमिन/ओनर पैनल के लिए)
@@ -63,7 +63,7 @@ async def ask_paheli(update: Update, context: ContextTypes.DEFAULT_TYPE):
     current_index = game_state[chat_id]["riddle_index"]
     riddle = RIDDLES[current_index]
     
-    text = f"🎯 *नई पहेली:* \n\n\"{riddle['question']}\"\n\n💡 *हिंट:* {riddle['hint']}\n\nजवाब चैट में सामान्य रूप से लिखें।"
+    text = f"🎯 *नई पहेली:* \n\n\"{riddle['question']}\"\n\nजवाब चैट में सामान्य रूप से लिखें।"
     await context.bot.send_message(chat_id=chat_id, text=text, parse_mode="Markdown")
 
 async def check_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -94,8 +94,8 @@ async def check_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         
         reply = f"🎉 *बिल्कुल सही जवाब* [{user.first_name}](tg://user?id={user.id})!\n\n" \
                 f"सही उत्तर था: *{main_answer}*\n" \
-                f"💰 आपको मिलते हैं *10 पॉइंट्स*।\n\n" \
-                f"अगली पहेली के लिए फिर से `/paheli` टाइप करें।"
+                f"*हिंट:* {riddle['hint']} आपको मिलते हैं *+01 पॉइंट्स*।\n\n" \
+                f"अगली पहेली के लिए फिर से /paheli टाइप करें।"
                 
         await update.message.reply_text(reply, parse_mode="Markdown")
 
@@ -110,7 +110,7 @@ async def show_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     scoreboard_text = "🏆 *पहेली लीडरबोर्ड:* \n\n"
     for i, (user_id, score) in enumerate(sorted_scores, 1):
-        scoreboard_text += f"{i}. यूजर (ID: {user_id}): *{score} PTS*\n"
+        scoreboard_text += f"{i}. USER'S ID: {user_id} {user.first_name}: *{score} PTS*\n"
         
     await update.message.reply_text(scoreboard_text, parse_mode="Markdown")
 
