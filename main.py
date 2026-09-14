@@ -76,6 +76,7 @@ async def check_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.message.from_user
     
     current_index = game_state[chat_id]["riddle_index"]
+    riddle = RIDDLES[current_index]
     allowed_answers = RIDDLES[current_index]["answers"]
     
     is_correct = False
@@ -88,17 +89,21 @@ async def check_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if is_correct:
         game_state[chat_id]["active"] = False
         scores = game_state[chat_id]["scores"]
-        scores[user.id] = scores.get(user.id, 0) + 10
+        scores[user.id] = {
+            "points": scores.get(user.id, {}).get("points", 0) + 10,
+            "name": user.first_name or user.username or f"User{user.id}"
+        }
         
         main_answer = allowed_answers[0]
         
         reply = f"🎉 *बिल्कुल सही जवाब* [{user.first_name}](tg://user?id={user.id})!\n\n" \
                 f"सही उत्तर था: *{main_answer}*\n" \
-                f"*हिंट:* {riddle['hint']} आपको मिलते हैं *+01 पॉइंट्स*।\n\n" \
+                f"*हिंट:* {riddle['hint']}\n" \
+                f"आपको मिलते हैं *+1 पॉइंट्स*।\n\n" \
                 f"अगली पहेली के लिए फिर से /paheli टाइप करें।"
                 
         await update.message.reply_text(reply, parse_mode="Markdown")
-
+        
 async def show_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.effective_chat.id
     if chat_id not in game_state or not game_state[chat_id]["scores"]:
@@ -106,14 +111,16 @@ async def show_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
         
     scores = game_state[chat_id]["scores"]
-    sorted_scores = sorted(scores.items(), key=lambda item: item[1], reverse=True)
+    sorted_scores = sorted(scores.items(), key=lambda item: item[1]["points"], reverse=True)
     
     scoreboard_text = "🏆 *पहेली लीडरबोर्ड:* \n\n"
-    for i, (user_id, score) in enumerate(sorted_scores, 1):
-        scoreboard_text += f"{i}. USER'S ID: {user_id} {user.first_name}: *{score} PTS*\n"
+    for i, (user_id, data) in enumerate(sorted_scores, 1):
+        name = data["name"]
+        points = data["points"]
+        scoreboard_text += f"{i}. {name}: *{points} PTS*\n"
         
     await update.message.reply_text(scoreboard_text, parse_mode="Markdown")
-
+    
 def main():
     # सुरक्षा जांच
     if not TOKEN:
