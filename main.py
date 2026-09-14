@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ChatMemberHandler, filters, ContextTypes
 from telegram.constants import ChatMemberStatus
+from paheli import RIDDLES
 
 # .env फाइल से वेरिएबल्स लोड करें
 load_dotenv()
@@ -14,19 +15,6 @@ TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID")) if os.getenv("OWNER_ID") else None
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
-
-RIDDLES = [
-    {
-        "question": "एक राजा की अनोखी रानी, दुम के रास्ते पीती पानी। बताओ क्या?",
-        "hint": "यह अंधेरे को दूर भगाता है और दिवाली पर जलाया जाता है।",
-        "answers": ["दीपक", "दिया", "दीया", "deepak", "diya", "deeyak", "lamp"]
-    },
-    {
-        "question": "हरी थी मन भरी थी, लाख मोती जड़ी थी, राजा जी के बाग में दुशाला ओढ़े खड़ी थी। बताओ क्या?",
-        "hint": "इसे मक्का (Corn) भी कहते हैं और सेक कर खाया जाता है।",
-        "answers": ["भुट्टा", "मक्का", "मकई", "bhutta", "makka", "makai", "corn"]
-    }
-]
 
 game_state = {}
 
@@ -59,7 +47,7 @@ async def owner_panel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     # चेक करें कि कमांड भेजने वाला ही असली ओनर है या नहीं
     if user_id == OWNER_ID:
-        await update.message.reply_text("😎 *नमस्ते बॉस!* आप बॉट के मुख्य डेवलपर हैं। आप पूरी तरह सुरक्षित हैं।", parse_mode="Markdown")
+        await update.message.reply_text("😎 *नमस्ते बॉस!* आप बॉट के मुख्य डेवलपर हैं। आप पूरी तरह सुरक्षित हैं।")
     else:
         await update.message.reply_text("❌ *अस्वीकृत:* यह कमांड केवल बॉट के मालिक (Owner) के लिए है।")
 
@@ -75,7 +63,7 @@ async def ask_paheli(update: Update, context: ContextTypes.DEFAULT_TYPE):
     current_index = game_state[chat_id]["riddle_index"]
     riddle = RIDDLES[current_index]
     
-    text = f"🎯 *नई पहेली:* \n\n\"{riddle['question']}\"\n\n💡 *हिंट:* {riddle['hint']}\n\nजवाब चैट में सामान्य रूप से लिखें!"
+    text = f"🎯 *नई पहेली:* \n\n\"{riddle['question']}\"\n\n💡 *हिंट:* {riddle['hint']}\n\nजवाब चैट में सामान्य रूप से लिखें।"
     await context.bot.send_message(chat_id=chat_id, text=text, parse_mode="Markdown")
 
 async def check_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -106,7 +94,7 @@ async def check_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         
         reply = f"🎉 *बिल्कुल सही जवाब* [{user.first_name}](tg://user?id={user.id})!\n\n" \
                 f"सही उत्तर था: *{main_answer}*\n" \
-                f"💰 आपको मिलते हैं *10ポイント (पॉइंट्स)*।\n\n" \
+                f"💰 आपको मिलते हैं *10 पॉइंट्स*।\n\n" \
                 f"अगली पहेली के लिए फिर से `/paheli` टाइप करें।"
                 
         await update.message.reply_text(reply, parse_mode="Markdown")
