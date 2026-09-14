@@ -99,8 +99,9 @@ async def check_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         reply = f"🎉 *बिल्कुल सही जवाब* [{user.first_name}](tg://user?id={user.id})!\n\n" \
                 f"सही उत्तर था: *{main_answer}*\n" \
                 f"*हिंट:* {riddle['hint']}\n" \
-                f"आपको मिलते हैं *+1 पॉइंट्स*।\n\n" \
-                f"अगली पहेली के लिए फिर से /paheli टाइप करें।"
+                f"आपको मिलते हैं *+10 पॉइंट्स*।\n\n" \
+                f"अगली पहेली के लिए फिर से /paheli टाइप करें।\n" \
+                f"📊 स्कोर देखने के लिए: /score लिखें।"
                 
         await update.message.reply_text(reply, parse_mode="Markdown")
         
@@ -117,7 +118,7 @@ async def show_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
     for i, (user_id, data) in enumerate(sorted_scores, 1):
         name = data["name"]
         points = data["points"]
-        scoreboard_text += f"{i}. {name}: *{points} PTS*\n"
+        scoreboard_text += f"{i}. {name}: Your Score *{points} Points*\n"
         
     await update.message.reply_text(scoreboard_text, parse_mode="Markdown")
     
